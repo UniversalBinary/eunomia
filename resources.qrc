@@ -1,0 +1,9 @@
+<RCC>
+    <qresource prefix="/">
+        <file>images/Yellow_Light.svg</file>
+        <file>images/Green_Light.svg</file>
+        <file>images/Red_Light.svg</file>
+        <file>images/Off_Light.svg</file>
+        <file>fonts/SourceCodePro-SemiBold.ttf</file>
+    </qresource>
+</RCC>
